@@ -12,3 +12,9 @@ def sub(a, b):
         return a - b
     else:
         return "Error: 'a' must be greater than 'b'"
+    
+def mul(a, b):
+    """
+    Function to add two numbers.
+    """
+    return a * b
